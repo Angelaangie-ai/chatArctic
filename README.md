@@ -1,0 +1,1 @@
+chatArctic is an AI platform that uses GPT models fine-tuned with specific climate data to share accurate information about climate change and the Arctic. It provides reliable answers supported by credible sources, making it easy for users to understand important environmental research.
